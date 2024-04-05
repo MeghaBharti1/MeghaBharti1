@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 👋 Hi, I’m @Aasthachourasiya0
-- 👀 I’m interested in writing.
-- 🌱 I’m currently exploring and learning new technologie
+- 👋 Hi, I’m @MeghaBharti05
+- 👀 I’m interested in Reading,Writing,Travelling.
+- 🌱 I’m currently exploring and learning new technologies.
 
 <!--
 **MeghaBharti1/MeghaBharti1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
